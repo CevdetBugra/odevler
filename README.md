@@ -1,0 +1,2 @@
+# odevler
+Patika.dev Ödevleri
